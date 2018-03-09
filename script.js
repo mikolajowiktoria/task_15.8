@@ -1,4 +1,3 @@
-ReactDOM.render(<App />, document.getElementById('root'));
 
 class App extends React.Component {
     constructor() {
